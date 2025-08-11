@@ -1,2 +1,2 @@
 # patient-management-system
-randoma
+patient manager
